@@ -1,0 +1,4 @@
+﻿  DSA Project.cpp
+C:\Users\lenovo\Desktop\SSUET\3rd SEMESTER\DSA LAB\DSA Project\DSA Project\DSA Project.cpp(487,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\SSUET\3rd SEMESTER\DSA LAB\DSA Project\DSA Project\DSA Project.cpp(747,15): warning C4101: 'temp': unreferenced local variable
+  DSA Project.vcxproj -> C:\Users\lenovo\Desktop\SSUET\3rd SEMESTER\DSA LAB\DSA Project\x64\Debug\DSA Project.exe
